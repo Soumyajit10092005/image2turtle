@@ -1,8 +1,6 @@
 # 🎨 Image to Turtle Sketcher
 
-[![Python Version](https://img.shields.io)](https://www.python.org)
-[![OpenCV](https://img.shields.io)](https://opencv.org)
-[![License: MIT](https://img.shields.io)](https://opensource.org)
+
 
 An automated Python script that takes any image, processes its contours using **OpenCV**, and reconstructs it as a vector-style drawing using the **Turtle** graphics library.
 
