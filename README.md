@@ -17,4 +17,4 @@ An automated Python script that takes any image, processes its contours using **
 ### 1. Prerequisites
 Ensure you have Python installed, then install the required libraries:
 ```bash
-pip install opencv-python numpy pillow
+pip install opencv-python numpy pillow tkinter sys
