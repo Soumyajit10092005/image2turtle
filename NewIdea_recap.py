@@ -4,7 +4,7 @@ import numpy as np
 import tkinter as tk
 from PIL import Image
 
-img_path = r"E:\MY IMAges\folder_01\Shivling CDR File Contact 9350235840.jpg"
+img_path = r"PLEASE ENTER IMAGE PATH (WITHOUT QUOTATION)"
 
 # img_path = r"E:\MY IMAges\netaji111.jpg"
 
@@ -96,6 +96,7 @@ t.hideturtle()
 wn.update()
 
 turtle.done()
+
 
 
 
