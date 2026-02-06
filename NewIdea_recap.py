@@ -1,12 +1,12 @@
+# TAKE AN INPUT IMAGE AND DRAW IT IN SCREEN WITH THE HELP OF TURTLE GRAPHICS LIBRARY
+
 import cv2, turtle
 import sys, os.path
 import numpy as np
 import tkinter as tk
 from PIL import Image
 
-img_path = r"PLEASE ENTER IMAGE PATH (WITHOUT QUOTATION)"
-
-# img_path = r"E:\MY IMAges\netaji111.jpg"
+img_path = r"PLEASE ENTER IMAGE PATH HERE (WITHOUT QUOTATION)"
 
 if not os.path.exists(img_path):
     sys.exit(f'File not found (please check file path)')
@@ -96,6 +96,7 @@ t.hideturtle()
 wn.update()
 
 turtle.done()
+
 
 
 
